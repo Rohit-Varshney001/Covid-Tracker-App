@@ -9,9 +9,7 @@ Track COVID-19 data worldwide with real-time updates and visualizations.
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository?style=social)
 
-<!-- Screenshots -->
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+
 
 <!-- Table of Contents -->
 ## Table of Contents
@@ -49,6 +47,31 @@ This Flutter app tracks COVID-19 data worldwide and provides real-time updates o
     flutter run
 
 
+**Start Page:-**
 
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/4f4eed46-a760-41c7-97e7-a9a00c6a7b8c" width="200" height="400" />
+</p>
+
+**Home Page:-**
+
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/0b53c703-d137-409d-a20c-1644e012057f" width="200" height="400" />
+</p>
+
+
+**Country List Page:-**
+
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/893de2aa-6c84-463b-b55a-3f49b1adc6d8" width="200" height="400"   />
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/62e44d54-05a4-439e-bd94-2d2ee84cf66b" width="200" height="400"   />
+</p>
+
+**Country Page:-**
+
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/2e64d049-4ab9-4d66-9987-367ba62112a1" width="200" height="400"   />
+  <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/287e8dff-b951-4533-8f3d-acde9944d9a8" width="200" height="400"   />
+</p>
 
 
