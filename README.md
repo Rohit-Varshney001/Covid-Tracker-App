@@ -73,4 +73,7 @@ This Flutter app tracks COVID-19 data worldwide and provides real-time updates o
   <img src="https://github.com/Rohit-Varshney001/Covid-Tracker-App/assets/98186477/287e8dff-b951-4533-8f3d-acde9944d9a8" width="200" height="400"   />
 </p>
 
+<p align="center">
+  <b>Download and try the app from <i><a href = "https://drive.google.com/file/d/1UgFrLH6Zu017w5I7efofZmqZ70EbXHIH/view?usp=sharing">Here</i></b>
+</p>
 
