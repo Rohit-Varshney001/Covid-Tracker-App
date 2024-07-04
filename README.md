@@ -35,8 +35,7 @@ This Flutter app tracks COVID-19 data worldwide and provides real-time updates o
 <!-- Installation Instructions -->
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/your-username/your-repository.git
-
+    git clone https://github.com/Rohit-Varshney001/Covid-Tracker-App.git
 2. Navigate to the project directory:
     cd your-repository
 
